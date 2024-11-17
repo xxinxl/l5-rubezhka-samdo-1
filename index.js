@@ -1,4 +1,4 @@
-//import Validator from './src/Validator.js';
+// import Validator from './src/Validator.js';
 import NumberValidator from './src/NumberSchema.js';
 
 class Validator {
